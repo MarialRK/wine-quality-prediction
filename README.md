@@ -15,4 +15,11 @@ This project implements a complete database system with SQL and MongoDB, FastAPI
 - Python 3.13 
 - FastAPI + Uvicorn 
 - SQLite + MongoDB Atlas 
-- Pydantic for data validation 
+- Pydantic for data validation
+
+### Team Members
+- **Daniel Kudum** - Database design, API development, Prediction pipeline
+- **Mutoni** - Dataset research, Testing, Documentation
+
+### GitHub
+Repository: https://github.com/MarialRK/wine-quality-prediction
